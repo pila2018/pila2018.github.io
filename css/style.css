@@ -1,0 +1,49 @@
+@import url(reset.css);
+/* ==============================================================
+@import url(reset.css);
+@import url(normalize.css);
+*/
+body{
+
+}
+ .params{
+	color:#EB8811;
+	}
+	.colo
+	{
+
+	}
+
+	.cartinca
+	{
+    font-family: 'Lato', serif;
+    background-image: url("../img/pop.jpg");
+    background-repeat: repeat;
+	}
+.partcol
+{
+	background-color:#FFBC73;
+}
+.onas
+{
+	background-color:#62B1D0;
+	
+}
+.cer
+{
+width:600px;
+display:block;
+margin:auto;	
+}
+.poto
+{
+	background-color:#FFD773;
+}
+.footercolor
+{
+	background-color:#A65600;
+}
+.formacolor
+{
+	background-color:#0776A0	;
+}
